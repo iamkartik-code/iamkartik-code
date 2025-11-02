@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi👋 , I'm Sanju Dhiman
 
-<!--
-**dhimansanju2006/dhimansanju2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I'm a CSE student learning Python and data structure and algorithms. I love building small projects and improving everyday.
+<!-
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-🔭 I’m currently working on: Portfolio website
+- 🌱 I’m learning: Data Structures & Algorithms, Flask
+- 💬 Ask me about: Python, Git
+- 📫 How to reach me: dhiamnsanju873@gmail.com
 -->
+## Skills
+- Languages: Python, C++
+- Tools: Git, GitHub, VSCode
+  
+Thanks for visiting my profile! 🚀
